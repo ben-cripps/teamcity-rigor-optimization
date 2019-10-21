@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamcity-plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:schemas-jetbrains-com:teamcity-plugin-v1-xml">
+  <info>
+    <name>rigorOptimization</name>
+    <display-name>Rigor Optimization</display-name>
+    <version>snapshot-20191003162314</version>
+    <description>Optimization test and analysis plugin created by Ben Cripps</description>
+    <download-url>Plugin download URL</download-url>
+    <email>Plugin author e-mail</email>
+    <vendor>
+      <name>Rigor</name>
+      <url>https://rigor.com/</url>
+      <logo>https://rigor.com/wp-content/uploads/2017/03/rigor-logo.svg</logo>
+    </vendor>
+  </info>
+  <deployment use-separate-classloader="true"/>
+</teamcity-plugin>
